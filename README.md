@@ -1,1 +1,1 @@
-# barrows_collection_log_calculator
+# OSRS_barrows_collection_log_calculator
